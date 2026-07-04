@@ -42,7 +42,7 @@ Abaixo estão listados todos os sistemas desenvolvidos, com links diretos para s
 * **O que faz:** Controla o registro de emissão de bilhetes aéreos, armazenando os dados dos passageiros, identificação do voo, classe de assento selecionada e o cálculo financeiro entre o preço original da passagem e o preço final praticado com descontos ou taxas.
 * **Conceitos aplicados:** Cláusula de segurança `IF NOT EXISTS` na criação de tabelas, controle de chaves numéricas sequenciais (`AUTO_INCREMENT`) e uso do tipo numérico de alta precisão `DECIMAL` para transações de valores monetários.
 * 📁 [Acessar arquivos desta atividade](#)
-* 📄 [Ver Script SQL desta atividade](;/Exercicio_8_Passagens_Aereas.sql)
+* 📄 [Ver Script SQL desta atividade](./Exercicio_8_Passagens_Aereas.sql)
 
 ### 🏨 7. Sistema de Reserva de Hotel
 * **O que faz:** Gerencia a ocupação de um hotel controlando o cadastro de quartos (valores de diárias e tipos) e o fluxo de hospedagem (Check-in e Check-out), vinculando os dados cadastrais do cliente ao quarto escolhido e calculando o valor total da estadia.
